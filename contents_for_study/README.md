@@ -8,9 +8,9 @@
 
 - [ ] [Introdução a Macros e Metaprogramação no Elixir - Code/drops #87](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
 
-- [ ] [Controle de fluxo no Elixir - Code/drops #89](https://www.youtube.com/watch?v=V_pIkbaFnMA)
+- [x] [Controle de fluxo no Elixir - Code/drops #89](https://www.youtube.com/watch?v=V_pIkbaFnMA)
 
-- [x] [Conheça as estruturas de dados do Elixir - Code/drops #92
+- [ ] [Conheça as estruturas de dados do Elixir - Code/drops #92
 ](https://www.youtube.com/watch?v=itY9IVnvgmw)
 
 - [ ] [Banco de dados com o Ecto! - Code/drops #94
