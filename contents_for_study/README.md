@@ -4,10 +4,13 @@
 
 - [x] - [O que é programação funcional? - Code/drops #73](https://www.youtube.com/watch?v=53Lv3efp7Rk)
 
+- [ ] - [Pattern Matching - ferramenta mais poderosa do Elixir - Code/drops #84](https://www.youtube.com/watch?v=7zQqzhVu74Y)
+
 - [ ] [Introdução a Macros e Metaprogramação no Elixir - Code/drops #87](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
 
+- [ ] [Controle de fluxo no Elixir - Code/drops #89](https://www.youtube.com/watch?v=V_pIkbaFnMA)
 
-- [ ] [Conheça as estruturas de dados do Elixir - Code/drops #92
+- [x] [Conheça as estruturas de dados do Elixir - Code/drops #92
 ](https://www.youtube.com/watch?v=itY9IVnvgmw)
 
 - [ ] [Banco de dados com o Ecto! - Code/drops #94
